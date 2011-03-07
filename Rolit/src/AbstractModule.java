@@ -7,5 +7,5 @@
  *
  */
 public interface AbstractModule {
-
+	// TODO Hallo Marcel
 }
