@@ -13,7 +13,7 @@ public class Game implements DataObjectHandler{
 	}
 
 	@Override
-	public void addProtocolReader(Object obj) {
+	public void addDataObjectReader(DataObjectHandler obj) {
 		// TODO Auto-generated method stub
 		
 	}
